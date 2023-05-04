@@ -1,4 +1,6 @@
-[![MasterHead](https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif)]
+<div align="center">
+<img src="https://camo.githubusercontent.com/36553af734f1c1b7875c8db299c7a69c69793a1893220c83ac0dbd14a0c94df7/68747470733a2f2f75706c6f6164732d73736c2e776562666c6f772e636f6d2f3563313931303063326235303037336536656536396461312f3630643335393637613835336131623134383531373033625f416c6c253230746865253230646174612532302831292e676966" align="center" style="width: 100%" />
+</div>  
 <h1 align="center">Hi 👋, I'm Aneesh Jayan P</h1>
 <h3 align="center">A passionate Data scientist look to learn more in field of Data science</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
