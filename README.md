@@ -6,9 +6,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aneeshjayan&label=Profile%20views&color=0e75b6&style=flat" alt="aneeshjayan" /> </p>
 
-- 🔭 I’m currently working on [Surface defect detection using Image processing](https://drive.google.com/file/d/10JsTUhyD97kak_gjrS64xvK5EWArrxo9/view?usp=share_link)
+- 🔭 I’m currently working on [Autism Detection Using fMRI Images with Quantum Deep Learning]
 
-- 🌱 I’m currently learning **NLP,DEEP LEARNING,MONGODB**
+- 🌱 I’m currently learning **NLP,DEEP LEARNING,POWER BI**
 
 - 📫 How to reach me **aneeshjayan11@gmail.com / https://www.linkedin.com/in/aneesh-jayan-35090b211/**
 
