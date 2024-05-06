@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on Autism Detection Using fMRI Images with Quantum Deep Learning
 
-- 🌱 I’m currently learning **NLP,DEEP LEARNING,POWER BI**
+- 🌱 I’m currently learning **NLP,DEEP LEARNING,Tableau,Generative AI**
 
 - 📫 How to reach me **aneeshjayan11@gmail.com / https://www.linkedin.com/in/aneesh-jayan-35090b211/**
 
