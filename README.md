@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://drive.google.com/file/d/1he46-Yv3aGXmIWf1Nc__bywRzUzG3kYW/view?usp=sharing" style="width: 100%" />
+  <img src="https://github.com/user-attachments/files/00000000e0b061f584e1e5a91e3faf57/A_digital_illustration_in_a_vibrant,_futuristic,_c.png" style="width: 100%" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Aneesh Jayan</h1>
 <h3 align="center">Data Science Enthusiast | AI Engineer in the Making</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1he46-Yv3aGXmIWf1Nc__bywRzUzG3kYW/view?usp=sharing">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=aneeshjayan&label=Profile%20views&color=0e75b6&style=flat" alt="aneeshjayan" /> 
