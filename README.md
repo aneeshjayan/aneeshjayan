@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://camo.githubusercontent.com/36553af734f1c1b7875c8db299c7a69c69793a1893220c83ac0dbd14a0c94df7/68747470733a2f2f75706c6f6164732d73736c2e776562666c6f772e636f6d2f3563313931303063326235303037336536656536396461312f3630643335393637613835336131623134383531373033625f416c6c253230746865253230646174612532302831292e676966" style="width: 100%" />
+  <img src="https://drive.google.com/file/d/1he46-Yv3aGXmIWf1Nc__bywRzUzG3kYW/view?usp=sharing" style="width: 100%" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Aneesh Jayan</h1>
