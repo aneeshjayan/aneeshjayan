@@ -19,7 +19,7 @@
 - 🛠 Hands-on with **LangChain, LangGraph, Neo4j, TensorFlow, PyTorch, OpenCV, SQL, and Streamlit**  
 - 🌱 Currently learning **CI/CD pipelines, Cloud Computing (AWS/Azure), and MongoDB**  
 - 📊 Skilled in **Data Analysis, Machine Learning, and Visualization** using Tableau, Pandas, Seaborn, and Power BI  
-- 📫 Reach me at **aneeshjayan11@gmail.com** | [LinkedIn](https://www.linkedin.com/in/aneesh-jayan-35090b211/)  
+- 📫 Reach me at **aneeshjayan11@gmail.com** | [LinkedIn](https://www.linkedin.com/in/aneeshjayan)  
 - 🎶 Fun fact: **Music fuels my productivity**  
 
 ---
