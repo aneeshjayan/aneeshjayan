@@ -1,116 +1,31 @@
 <h1 align="center">Hi 👋, I'm Aneesh Jayan Prabhu</h1>
-<h3 align="center">MS Data Science @ ASU | Data Science Intern @ Wolters Kluwer | AI/ML Engineer | LLMs, RAG, Agents, ML, and Computer Vision</h3>
+<h3 align="center">MS Data Science student at ASU | Data Science Intern @ Wolters Kluwer | AI/ML Engineer passionate about LLMs, RAG systems, Agentic AI,ML and Computer vision</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aneeshjayan&label=Profile%20Views&color=0e75b6&style=flat" alt="aneeshjayan" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aneeshjayan&label=Profile%20views&color=0e75b6&style=flat" alt="aneeshjayan" /> </p>
 
-<p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=aneeshjayan">
-    <img src="https://github-profile-trophy.vercel.app/?username=aneeshjayan&theme=radical&margin-w=10" />
-  </a>
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aneeshjayan" alt="aneeshjayan" /></a> </p>
 
----
+- 🔭 I’m currently working on **Building a Financial Language Model for handling financial matters and decision making**
 
-## 🚀 About Me  
-- 🎓 **MS Data Science student at Arizona State University (GPA: 4.22/4)**  
-- 💼 **Data Science Intern @ Wolters Kluwer – Legal & Regulatory**  
-- 💡 Passionate about **LLMs, Agentic AI, RAG systems, Vision-Language Models & ML Engineering**  
-- 🔭 Currently working on: **A Financial Language Model for reasoning, forecasting & decision-making**  
-- 🌱 Learning: **Cloud Computing, MLOps, Reinforcement Learning, LangGraph Agents**  
-- 📝 I write articles on: **[Medium](https://medium.com/@aneeshjayan11)**  
-- 💬 Ask me about: **LLMs, RAG pipelines, Agentic AI, LangChain, PyTorch, Data Science**  
-- 📫 Reach me at **aneeshjayan11@gmail.com**  
+- 🌱 I’m currently learning **Cloud Computing, Reinforcement Learning, and MLOps**
 
----
+- 👯 I’m looking to collaborate on **AI/ML Engineering and Production-Ready LLM Systems**
 
-## 🧠 Technical Focus Areas  
-✔ **LLM Orchestration** (LangGraph, Agents, Routing, Policies)  
-✔ **RAG Systems** (chunking, preprocessing, hybrid retrieval, evaluation)  
-✔ **Agentic Workflows** (Conversational agents, SQL agents, multi-step pipelines)  
-✔ **Vision–Language Models** (CrossViT, SWIN, MoE, KOSMOS-2)  
-✔ **Cloud ML Deployments** (AWS SageMaker, Azure, Docker, CI/CD)  
-✔ **Microservices** (FastAPI, message brokers, async workflows)  
-✔ **Graph + Vector Search** (Neo4j, Qdrant)
+- 📝 I regularly write articles on [https://medium.com/@aneeshjayan11](https://medium.com/@aneeshjayan11)
 
----
+- 💬 Ask me about **LLMs, RAG systems, Agentic workflows, LangChain, PyTorch, Machine Learning, and Data Science**
 
-## 🏆 Featured Experience
+- 📫 How to reach me **aneeshjayan11@gmail.com**
 
-### 🔹 **Data Science Intern — Wolters Kluwer (2025–Present)**  
-- Designed **AI-driven reporting agent** using LangGraph → *22% faster insights*  
-- Built **FastAPI microservices** integrating predictive & analytical agents  
-- Developed **legal-document RAG pipeline** (tables + flowcharts) → *85% accuracy improvement*  
-- Automated ingestion from **SMTP → OneDrive** → *95% reliability boost*  
-
----
-
-## 📌 Featured Projects
-
-### 🔥 **1. Adaptive Inference for Vision-Language Models**  
-**MoE + LoRA + Reinforcement Learning**  
-- Achieved **50–70% reduction** in inference costs  
-- Built dynamic **expert routing + early exits**  
-- 2.9× speedup with minimal quality drop
-
----
-
-### 🤖 **2. Cosmos AI – Intelligent CRM Assistant**  
-**Gemini + Qdrant + SQL Agent + Maps API**  
-- 86% improved response accuracy  
-- Saved 40+ analyst hours/month  
-- Automatic routing → meeting scheduling
-
----
-
-### 🌎 **3. Multimodal Wildfire Detection**  
-**CrossViT + Thermal Fusion + VLMs**  
-- 98.6% accuracy  
-- Integrated semantic fire localization
-
----
-
-### 🧬 **4. Autism Detection (EEG + fMRI Hybrid)**  
-**SWIN Transformer + CNN + Quantum SVM**  
-- Accuracy: **98.17% (ABIDE I)**  
-- Reduced computation time by **25%**
-
----
-
-## 📝 Recent Writing  
-- 🔹 *Unlocking 3D Vision: How AI Understands Space*  
-- 🔹 *Building Reliable RAG Systems — Lessons from Production*  
-- 🔹 *MoE Architectures: Beyond Scaling*  
-- More on **Medium →** https://medium.com/@aneeshjayan11  
-
----
-
-## 🔗 Connect with me  
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/aneeshjayan"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://instagram.com/aneesh.jayan_aj"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## 🛠 Languages and Tools  
-<p align="left"> 
-  <!-- Keep your icons, all good -->
-  <!-- (Your full original icons section stays unchanged here) -->
-  <!-- I am keeping this part intact since it is already detailed and perfect -->
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aneeshjayan&show_icons=true&locale=en&layout=compact" alt="aneeshjayan" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aneeshjayan&show_icons=true&locale=en" alt="aneeshjayan" /></p>
 
-## 📊 GitHub Stats  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aneeshjayan&show_icons=true&locale=en&layout=compact" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aneeshjayan&show_icons=true&locale=en" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aneeshjayan&" /></p>
-
----
-
-## 🎵 Fun Insight  
-**Music fuels my productivity — everything from AR Rahman to ambient lofi helps me code faster.**
-
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aneeshjayan&" alt="aneeshjayan" /></p>
